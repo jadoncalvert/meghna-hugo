@@ -2,7 +2,7 @@
 title: Are You Doing the Right Way
 date: 2018-09-12T14:51:12.000+06:00
 image_webp: "/images/a09i0987.jpg"
-image: images/blog/blog-post-2.jpg
+image: "/images/img_0976.JPG"
 author: John Doe
 description: This is meta description
 
