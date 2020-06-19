@@ -5,9 +5,8 @@ banner:
   bg_image: images/backgrounds/hero-area.jpg
   icon: ''
   title: CREATE THE FUTURE
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: Let's work together
   button:
     enable: true
-    label: Explore Us
+    label: Show reel
     link: "#services"
